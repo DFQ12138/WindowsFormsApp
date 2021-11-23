@@ -1,0 +1,10 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ChangeTextForm.resources

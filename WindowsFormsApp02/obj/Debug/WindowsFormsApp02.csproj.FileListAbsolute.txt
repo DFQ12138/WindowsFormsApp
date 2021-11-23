@@ -1,0 +1,12 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\bin\Debug\WindowsFormsApp02.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\bin\Debug\WindowsFormsApp02.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\bin\Debug\WindowsFormsApp02.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.AssemblyReference.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp2.MainForm.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp2.NewForm.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp02\obj\Debug\WindowsFormsApp02.csproj.SuggestedBindingRedirects.cache

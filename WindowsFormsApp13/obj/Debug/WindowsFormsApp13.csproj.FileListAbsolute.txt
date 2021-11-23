@@ -1,0 +1,10 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.TimerForm.resources

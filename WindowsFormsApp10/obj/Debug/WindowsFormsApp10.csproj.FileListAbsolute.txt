@@ -1,0 +1,10 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.ListBoxForm.resources

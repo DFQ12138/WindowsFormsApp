@@ -1,0 +1,9 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\bin\Debug\WindowsFormsApp05.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\bin\Debug\WindowsFormsApp05.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\bin\Debug\WindowsFormsApp05.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\obj\Debug\WindowsFormsApp5.TextChange.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\obj\Debug\WindowsFormsApp05.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\obj\Debug\WindowsFormsApp05.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\obj\Debug\WindowsFormsApp05.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp05\obj\Debug\WindowsFormsApp05.pdb

@@ -1,0 +1,10 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.LoginForm.resources

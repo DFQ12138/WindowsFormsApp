@@ -1,0 +1,10 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\bin\Debug\WindowsFormsApp07.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\bin\Debug\WindowsFormsApp07.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\bin\Debug\WindowsFormsApp07.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp7.MainForm.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp7.RegForm.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp07.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp07.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp07.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp07\obj\Debug\WindowsFormsApp07.pdb

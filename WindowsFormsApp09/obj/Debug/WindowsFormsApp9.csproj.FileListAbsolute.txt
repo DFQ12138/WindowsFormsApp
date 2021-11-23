@@ -1,0 +1,11 @@
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.CheckBoxForm.resources
+D:\C#\Code\Test\WindowsFormsApp1\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.CheckedListBox.resources
